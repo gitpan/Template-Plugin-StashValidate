@@ -1,15 +1,8 @@
 package Template::Plugin::StashValidate;
-BEGIN {
-  $Template::Plugin::StashValidate::VERSION = '0.02';
-}
 
 =head1 NAME
 
 Template::Plugin::StashValidate - MooseX::Params::Validate for template stash values
-
-=head1 VERSION
-
-version 0.02
 
 =head1 DESCRIPTION
 

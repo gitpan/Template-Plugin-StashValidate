@@ -20,11 +20,12 @@ my %WriteMakefileArgs = (
   'LICENSE' => 'perl',
   'NAME' => 'Template::Plugin::StashValidate',
   'PREREQ_PM' => {
+    'MooseX::Params::Validate' => '0',
     'Template' => '0',
     'Test::Exception' => '0',
     'Test::More' => '0'
   },
-  'VERSION' => '0.01',
+  'VERSION' => '0.02',
   'test' => {
     'TESTS' => 't/*.t'
   }

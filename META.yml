@@ -13,7 +13,8 @@ meta-spec:
   version: 1.4
 name: Template-Plugin-StashValidate
 requires:
+  MooseX::Params::Validate: 0
   Template: 0
   Test::Exception: 0
   Test::More: 0
-version: 0.01
+version: 0.02
