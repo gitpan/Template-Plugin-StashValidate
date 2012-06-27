@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Template-Plugin-StashValidate,
-version 0.02:
+version 0.03:
 
   Allows a template to validate specific hash keys via MooseX::Params::Validate
 
